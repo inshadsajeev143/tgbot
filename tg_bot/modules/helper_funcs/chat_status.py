@@ -121,7 +121,8 @@ def user_admin(func):
             update.effective_message.delete()
 
         else:
-            update.effective_message.reply_text("ഏതാണ് ഈ മനുഷ്യൻ ഞാൻ എന്ത് ചെയ്യണം എന്ന് പറയുന്നത്?")
+            update.effective_message.reply_text("ഏതാണ് ഈ മനുഷ്യൻ ഞാൻ എന്ത് ചെയ്യണം എന്ന് പറയുന്നത്?താങ്കളുടെ സ്വന്തം ജോലി ശ്രദ്ധിക്കുക
+ദയവായി ഇവിടെ സ്പാം ചെയ്യരുത്")
 
     return is_admin
 
