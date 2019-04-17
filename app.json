@@ -8,7 +8,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/PaulSonOfLars/tgbot",
+  "repository": "https://github.com/inshadsajeev143/tgbot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables. But, you need to understand the code to know what to set here!",
@@ -41,19 +41,19 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "254318997 18673980 83489514"
+      "value": "577472558 702448099 827835834"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "254318997 18673980 83489514"
+      "value": "577472558 702448099 827835834"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "254318997 18673980 83489514"
+      "value": "577472558 702448099 827835834"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/PaulSonOfLars"
+      "value": "https://www.paypal.me/inshad143"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
