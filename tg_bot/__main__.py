@@ -36,10 +36,10 @@ the things I can help you with.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](https://telegram.dog/SonOfLars) to get me to where I am now, and every donation helps \
-motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
-(see his bio!). He's just a poor student, so every little helps!"""
+DONATE_STRING = """ഹായ്, നിങ്ങൾ സംഭാവന ചെയ്യാൻ ആഗ്രഹിക്കുന്നത് കേൾക്കാൻ സന്തോഷമുണ്ട്!
+ഞാൻ ഇപ്പോൾ എവിടെയായിരുന്നാലും എന്നെ തേടാൻ എന്റെ സൃഷ്ടാക്കൾക്ക് (https://telegram.dog/inshad143) ധാരാളം ജോലി ചെയ്തു,
+എന്നെ കൂടുതൽ മെച്ചപ്പെടുത്താൻ അവനെ പ്രേരിപ്പിക്കുക. എല്ലാ സംഭാവന സംഭാവനകളും എന്നെ ഹോസ്റ്റുചെയ്യാൻ മെച്ചപ്പെട്ട വി.പി.പിയിലേക്ക് പോകും, കൂടാതെ / അല്ലെങ്കിൽ ബിയർ \
+(അവന്റെ ബയോ കാണുക!). അവൻ ദരിദ്രനായ ഒരു വിദ്യാർഥിയാണ്, അതുകൊണ്ട് ഓരോ ചെറിയ സഹായവും!"""
 
 IMPORTED = {}
 MIGRATEABLE = []
